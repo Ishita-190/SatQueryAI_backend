@@ -1,0 +1,14 @@
+.git/
+.pytest_cache/
+**/__pycache__/
+**/.venv/
+**/.env
+**/satquery.db
+frontend/
+notebooks/
+training/
+train/
+eval/
+backend/checkpoints/last_model.pth
+models/
+**/*.ipynb
